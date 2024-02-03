@@ -15,9 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm Simran :) <br><br>I'm a 2nd year student at Imperial College London study Computing! <br>
+I'm Simran :) <br><br>I'm a 2nd year student at Imperial College London studying Computing! <br>
+
+I'm currently interested in Full Stack Development, and am the Co-Founder, COO and Software Engineer @huscle <br>
+
+I'm drawn to machine learning, full-stack development and robotics and I like to code in Java and C. I am proficident in Scala, Kotlin, Haskell, TypeScript and JavaScript. 
 
 
+You can reach out to me on my LinkedIn :)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simrankaware) 
 
