@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm Simran. :) <br><br>I'm a 2nd year student at Imperial College London study Computing! <br>
+I'm Simran :) <br><br>I'm a 2nd year student at Imperial College London study Computing! <br>
 
 
 ## 🌐 Socials:
