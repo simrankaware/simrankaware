@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm Simran :) <br><br>I'm a 2nd year student at Imperial College London studying Computing! <br>
+I'm Simran, a 2nd year student at Imperial College London studying Computing! <br>
 
 I'm currently interested in Full Stack Development, and am the Co-Founder, COO and Software Engineer @huscle <br>
 
