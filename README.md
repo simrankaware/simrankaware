@@ -19,7 +19,7 @@ I'm Simran, a 2nd year student at Imperial College London studying Computing! <b
 
 I'm currently interested in Full Stack Development, and am the Co-Founder, COO and Software Engineer @huscle <br>
 
-I'm drawn to machine learning, full-stack development and robotics and I like to code in Java and C. I am proficident in Scala, Kotlin, Haskell, TypeScript and JavaScript. 
+I'm drawn to machine learning, full-stack development and robotics and I like to code in Java and C. I am proficient in Scala, Kotlin, Haskell, TypeScript and JavaScript. 
 
 
 You can reach out to me on my LinkedIn :)
